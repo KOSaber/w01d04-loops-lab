@@ -122,6 +122,18 @@ for(var i=1; i<=10 ;i++){
 
 ```
 
+var result = ""
+for(var i=1; i<=5 ;i++){
+   for(var r=1; r<=i ;r++){
+     
+     result += "* "
+       
+   }
+  result += "\n "
+ 
+}
+ console.log(result)
+
 <br>
 
 
